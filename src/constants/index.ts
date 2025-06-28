@@ -9,7 +9,7 @@ export const NAV_ITEMS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com",
+  sourceCode: "https://github.com/amankashyap4321/tech_website",
 } as const;
 
 export const SOCIAL_LINKS = [
